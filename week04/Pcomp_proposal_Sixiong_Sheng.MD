@@ -21,3 +21,4 @@ Why: Proactive behavior is required to keep the best user experience in a room w
 What: Have devices activly detecte and auto-adjust performance will optimise user experience.  
 
 How: Set up sensor to define reletive position between speakers and users. Aloow speakers balance sounds between the stereo system for best experience.  
+![project proposal sketch](https://user-images.githubusercontent.com/80315339/139079676-58a6cdd3-1a03-4488-9c22-7d850a6eebbf.jpg)
