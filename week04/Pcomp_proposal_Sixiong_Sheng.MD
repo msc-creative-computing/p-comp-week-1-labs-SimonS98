@@ -5,10 +5,10 @@ I have 3 HomePod Mini in my studyroom, and they can play simultaneously under th
 I want to build a environment, of which user's position is tracked, and speakers automaically adjust the volume balance for best perfromance.  
 
 I will use one of the listed sensor to monitor the reletive position of user.  
-    -- UWB beacon and receiver.(Most likely)
-    -- Ultrasonic module array.
-    -- RGB/double RGB/ToF/IR camera.
-    -- Other methods to be explored.
+    -- UWB beacon and receiver.(Most likely). 
+    -- Ultrasonic module array.  
+    -- RGB/double RGB/ToF/IR camera.  
+    -- Other methods to be explored.  
     -- Alternatively, use RIFD or physical buttons for preset senarios.  
 
 I will also use atleast 3 speaker module linked with bluetooth modules for audio output. I may or may not use portable power supply for this project, for best demonstration.
