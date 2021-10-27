@@ -1,6 +1,6 @@
-I was excited when Apple anounced HomePod is able to track its location within a room, and optimise performance based on real-time location, but it didn't work as I expected.  
+I was excited when Apple anounced HomePod's ability to detect its location within a room, and optimise performance based on the real-time location, but it didn't work as I expected.  
 
-I have 3 HomePod Mini in my studyroom, and they can play simultaneously under the same Wi-fi, which create a very cost-efficient stereo sound environment. I often have to manually change the volume balance between 3 speakers, because any one of the speaker will be too loud when I'm close to it, and the rest 2 will sounds too weak and lose the sound field balance.  
+I have 3 HomePod Mini in my studyroom, and they can play simultaneously under the same Wi-fi, which create a very cost-efficient stereo sound environment. However, I often have to manually change the volume balance between 3 speakers, because any one of the speaker will be too loud when I'm close to it, and the rest 2 will sounds too weak and lose the sound field balance.  
 
 I want to build a environment, of which user's position is tracked, and speakers automaically adjust the volume balance for best perfromance.  
 
