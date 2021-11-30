@@ -1,5 +1,0 @@
-![fade01](https://user-images.githubusercontent.com/80315339/138059705-7dfa952b-9cad-4dbf-9fdb-2f164ef8957f.gif)
-![fade_lightresistor](https://user-images.githubusercontent.com/80315339/138059737-3720ff5d-206d-4c06-a10c-d0e366ac1e65.gif)
-![Dark-Detecting_LED](https://user-images.githubusercontent.com/80315339/138059744-cdf3f59d-87d2-4da9-a80a-fb8471380c54.gif)
-![Week03_lab0402](https://user-images.githubusercontent.com/80315339/138059859-e8519450-d8da-4b11-bdc7-80fdc4e82ba1.gif)
-![week03_touch_sensor_lowres](https://user-images.githubusercontent.com/80315339/138060020-94fad6e4-5ff0-40d6-9963-d920e35d7ea3.gif)
