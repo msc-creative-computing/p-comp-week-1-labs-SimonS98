@@ -3,6 +3,6 @@
 
 
 
-![](touched.jpg)
+![](touched.png)
 ![](screen-shot-touched.png)
 
